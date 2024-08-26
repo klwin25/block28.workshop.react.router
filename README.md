@@ -9,6 +9,4 @@ Currently, two official plugins are available:
 
 ---
 
-Notes: For some reason, nothing renders.
-
-Netlify Link: https://66cc2031d1cee3ea1d1530bb--bright-mermaid-c8f0b2.netlify.app/
+Netlify Link: https://66cc8de022344c0c01b0d75a--venerable-rolypoly-78d636.netlify.app/
